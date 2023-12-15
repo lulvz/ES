@@ -1,14 +1,4 @@
-# 2LEIC11T3
-## Members
-
-Bernardo António Coelho Gonçalves - 202108745  
-Luis Miguel Lima Tavares - 202108662  
-Miguel Martins Leitão - 202108851  
-Pedro Miguel Oliveira Estela - 202108892  
-Rodrigo Campos Rodrigues - 202108847  
-
-# Product Name
-Recipe Wizard
+# Recipe Wizard
 
 ## GIF of the app
 ![image](images/ES-APP.gif)
@@ -28,3 +18,11 @@ Feature 4 - register/login to save the user's recipes and pantry;
 Feature 5 - search filters to allow missing ingredients;
 
 Feature 6 - dropdown menu with search bar to select the ingredients;
+
+## Members
+
+Bernardo António Coelho Gonçalves - 202108745  
+Luis Miguel Lima Tavares - 202108662  
+Miguel Martins Leitão - 202108851  
+Pedro Miguel Oliveira Estela - 202108892  
+Rodrigo Campos Rodrigues - 202108847  
