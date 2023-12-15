@@ -1,0 +1,601 @@
+{
+    "black_pepper":
+    {
+        "name": "Black Pepper",
+        "description": "Black Pepper is a spice made from the dried fruit of the pepper plant. It is used to add flavor to food. It is also used as a medicine."
+    },
+
+    "celery":
+    {
+        "name": "Celery",
+        "description": "Celery is a plant. The stalks are used to make medicine."
+    },
+
+    "celery_seed":
+    {
+        "name": "Celery Seed",
+        "description": "Celery seed is a spice made from the dried seeds of the celery plant. It is used to add flavor to food. It is also used as a medicine."
+    },
+
+    "egg":
+    {
+        "name": "Egg",
+        "description": "Egg is a food made from the egg of a bird. It is used to make many foods and medicines."
+    },
+
+    "green_onion":
+    {
+        "name": "Green Onion",
+        "description": "Green onion is a plant. The leaves and bulb are used to make medicine."
+    },
+
+    "ground_pepper":
+    {
+        "name": "Ground Pepper",
+        "description": "Ground pepper is a spice made from the dried fruit of the pepper plant. It is used to add flavor to food. It is also used as a medicine."
+    },
+
+    "potato":
+    {
+        "name": "Potato",
+        "description": "Potato is a plant. The tuber is used to make medicine."
+    },
+
+    "salt":
+    {
+        "name": "Salt",
+        "description": "Salt is a mineral. It is used to add flavor to food. It is also used as a medicine."
+    },
+
+    "white_pepper":
+    {
+        "name": "White Pepper",
+        "description": "White pepper is a spice made from the dried fruit of the pepper plant. It is used to add flavor to food. It is also used as a medicine."
+    },
+
+    "white_vinegar":
+    {
+        "name": "White Vinegar",
+        "description": "White vinegar is a liquid made from fermented alcohol. It is used to add flavor to food. It is also used as a medicine."
+    },
+
+    "yellow_mustard":
+    {
+        "name": "Yellow Mustard",
+        "description": "Yellow mustard is a spice made from the seeds of the mustard plant. It is used to add flavor to food. It is also used as a medicine."
+    },
+
+    "banana":
+    {
+        "name": "Banana",
+        "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa."
+    },
+
+    "flour":
+    {
+        "name": "Flour",
+        "description": "Flour is a powder made by grinding raw grains, roots, beans, nuts, or seeds. Flours are used to make many different foods."
+    },
+
+    "canola_oil":
+    {
+        "name": "Canola Oil",
+        "description": "Canola oil is a food-grade version derived from rapeseed cultivars bred for low erucic acid content"
+    },
+
+    "buttermilk":
+    {
+        "name": "Buttermilk",
+        "description": "Buttermilk is a fermented dairy drink. Traditionally, it was the liquid left behind after churning butter out of cultured cream."
+    },
+
+    "vanilla_extract":
+    {
+        "name": "Vanilla Extract",
+        "description": "Vanilla extract is a solution made by macerating and percolating vanilla pods in a solution of ethanol and water."
+    },
+
+    "walnut":
+    {
+        "name": "Walnut",
+        "description": "A walnut is the edible seed of any tree of the genus Juglans (family Juglandaceae), particularly the Persian or English walnut, Juglans regia. "
+    },
+
+    "butter":
+    {
+        "name": "Butter",
+        "description": "Butter is a dairy product made from the fat and protein components of churned cream. It is a semi-solid emulsion at room temperature, consisting of approximately 80% butterfat."
+    },
+
+    "sugar":
+    {
+        "name": "Sugar",
+        "description": "Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose."
+    },
+
+    "sour_cream":
+    {
+        "name": "Sour Cream",
+        "description": "Sour cream is a dairy product obtained by fermenting regular cream with certain kinds of lactic acid bacteria."
+    },
+
+    "muffin_mix":
+    {
+        "name": "Muffin Mix",
+        "description": "The soft and moist texture of the batter coupled with the pleasant vanilla flavour allows you to create extremely delicious and rich treats."
+    },
+
+    "milk":
+    {
+        "name": "Milk",
+        "description": "Milk is a white liquid food produced by the mammary glands of mammals."
+    },
+
+    "corn":
+    {
+        "name": "Corn",
+        "description": "Corn is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago."
+    },
+
+    "bacon":
+    {
+        "name": "Bacon",
+        "description": "Bacon is a type of salt-cured pork made from various cuts, typically the belly or less fatty parts of the back."
+    },
+
+    "carrot":
+    {
+        "name": "Carrot",
+        "description": "The carrot is a root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist,all of which are domesticated forms of the wild carrot, Daucus carota, native to Europe and Southwestern Asia."
+    },
+
+    "onion":
+    {
+        "name": "Onion",
+        "description": "An onion is a vegetable that is the most widely cultivated species of the genus Allium."
+    },
+
+    "parsley":
+    {
+        "name": "Parsley",
+        "description": "Parsley is a species of flowering plant in the family Apiaceae that is native to Greece, Morocco and the former Yugoslavia."
+    },
+
+    "broth":
+    {
+        "name": "Broth",
+        "description": "Broth, also known as bouillon is a savory liquid made of water in which meat, fish or vegetables have been simmered for a short period of time."
+    },
+
+    "baking_powder":
+    {
+        "name": "Baking Powder",
+        "description": "Baking powder is a dry chemical leavening agent, a mixture of a carbonate or bicarbonate and a weak acid. The base and acid are prevented from reacting prematurely by the inclusion of a buffer such as cornstarch."
+    },
+
+    "chicken":
+    {
+        "name": "Chicken",
+        "description": "Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising chickens—in comparison to mammals such as cattle or hogs—chicken meat and chicken eggs have become prevalent in numerous cuisines."
+    },
+
+    "lemon_pepper":
+    {
+        "name": "Lemon Pepper",
+        "description": "Lemon pepper (also called lemon pepper seasoning) is a seasoning made from granulated lemon zest and cracked black peppercorns.["
+    },
+
+    "brown_sugar":
+    {
+        "name": "Brown Sugar",
+        "description": "Brown sugar is a sucrose sugar product with a distinctive brown color due to the presence of molasses."
+    },
+
+    "monterey_jack_cheese":
+    {
+        "name": "Monterey Jack Cheese",
+        "description": "Monterey Jack, sometimes shortened to Jack, is a US white, semi-hard cheese made using cow's milk, with a mild flavor and slight sweetness."
+    },
+
+    "blueberry":
+    {
+        "name": "Blueberry",
+        "description": "Blueberries are a widely distributed and widespread group of perennial flowering plants with blue or purple berries."
+    },
+
+    "nut":
+    {
+        "name": "Nut",
+        "description": "A nut is a fruit consisting of a hard or tough nutshell protecting a kernel which is usually edible. In general usage and in a culinary sense, a wide variety of dry seeds are called nuts, but in a botanical context `nut` implies that the shell does not open to release the seed "
+    },
+
+    "molasses":
+    {
+        "name": "Molasses",
+        "description": "Molasses is a viscous substance resulting from refining sugarcane or sugar beets into sugar."
+    },
+
+    "ginger":
+    {
+        "name": "Ginger",
+        "description": "Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine."
+    },
+
+    "cinnamon":
+    {
+        "name": "Cinnamon",
+        "description": "Cinnamon is a spice obtained from the inner bark of several tree species from the genus Cinnamomum. Cinnamon is used mainly as an aromatic condiment and flavouring additive in a wide variety of cuisines, sweet and savoury dishes, breakfast cereals, snack foods, bagels, teas, hot chocolate and traditional foods."
+    },
+
+    "chocolate_chip":
+    {
+        "name": "Chocolate Chip",
+        "description": "Chocolate chips or chocolate morsels are small chunks of sweetened chocolate, used as an ingredient in a number of desserts (notably chocolate chip cookies and muffins), in trail mix and less commonly in some breakfast foods such as pancakes."
+    },
+
+    "butterscotch_chip":
+    {
+        "name": "Butterscotch Chip",
+        "description": "Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter. Some recipes include corn syrup, cream, vanilla, and salt. "
+    },
+
+    "peanut_butter":
+    {
+        "name": "Peanut Butter",
+        "description": "Peanut butter is a food paste or spread made from ground, dry-roasted peanuts. It commonly contains additional ingredients that modify the taste or texture, such as salt, sweeteners, or emulsifiers."
+    },
+
+    "peanut":
+    {
+        "name": "Peanut",
+        "description": "The peanut is a legume crop grown mainly for its edible seeds."
+    },
+
+    "caramel":
+    {
+        "name": "Caramel",
+        "description": "Caramel is an orange-brown confectionery product made by heating a range of sugars. It can be used as a flavoring in puddings and desserts, as a filling in bonbons, or as a topping for ice cream and custard."
+    },
+
+    "whipping_cream":
+    {
+        "name": "Whipping Cream",
+        "description": "Whipping cream is heavy cream, double cream, or other high-fat cream, that is whipped by a whisk or mixer until it is light and fluffy and holds its shape, or by the expansion of dissolved gas, forming a firm colloid."
+    },
+
+    "enchilada_sauce":
+    {
+        "name": "Enchilada Sauce",
+        "description": "Enchilada sauce includes chili-based sauces, such as salsa roja, various moles, tomatillo-based sauces, such as salsa verde, or cheese-based sauces, such as chile con queso."
+    },
+
+    "cream_cheese":
+    {
+        "name": "Cream Cheese",
+        "description": "Cream cheese is a soft, usually mild-tasting fresh cheese made from milk and cream."
+    },
+
+    "salsa":
+    {
+        "name": "Salsa",
+        "description": "Salsa is a variety of sauces used as condiments for tacos and other Mexican and Mexican-American foods, and as dips for tortilla chips."
+    },
+
+    "bean":
+    {
+        "name": "Bean",
+        "description": "A bean is the seed of several plants in the family Fabaceae, which are used as vegetables for human or animal food. They can be cooked in many different ways, including boiling, frying, and baking, and are used in many traditional dishes throughout the world."
+    },
+
+    "tortilla":
+    {
+        "name": "Tortilla",
+        "description": "A tortilla  is a thin, circular unleavened flatbread from Mexico and Central America originally made from maize hominy meal, and now also from wheat flour."
+    },
+
+    "lettuce":
+    {
+        "name": "Lettuce",
+        "description": "Lettuce is an annual plant of the family Asteraceae. It is most often grown as a leaf vegetable, but sometimes for its stem and seeds. Lettuce is most often used for salads, although it is also seen in other kinds of food, such as soups, sandwiches and wraps; it can also be grilled."
+    },
+
+    "bread_crust":
+    {
+        "name": "Bread Crust",
+        "description": "Bread crust is formed from surface dough during the cooking process. It is hardened and browned through the Maillard reaction using the sugars and amino acids due to the intense heat at the bread surface."
+    },
+
+    "honey":
+    {
+        "name": "Honey",
+        "description": "Honey is a sweet and viscous substance made by several bees, the best-known of which are honey bees."
+    },
+
+    "corn_starch":
+    {
+        "name": "Corn Starch",
+        "description": "Corn starch is the starch derived from corn grain."
+    },
+
+    "tilapia":
+    {
+        "name": "Tilapia",
+        "description": "Tilapia is the common name for nearly a hundred species of cichlid fish from the coelotilapine, coptodonine, heterotilapine, oreochromine, pelmatolapiine, and tilapiine tribes (formerly all were 'Tilapiini'), with the economically most important species placed in the Coptodonini and Oreochromini."
+    },
+
+    "lemon":
+    {
+        "name": "Lemon",
+        "description": "The lemon (Citrus limon) is a species of small evergreen trees in the flowering plant family Rutaceae, native to Asia, primarily Northeast India (Assam), Northern Myanmar or China."
+    },
+
+    "garlic":
+    {
+        "name": "Garlic",
+        "description": "Garlic (Allium sativum) is a species of bulbous flowering plant in the genus Allium. Its close relatives include the onion, shallot, leek, chive, Welsh onion and Chinese onion."
+    },
+
+    "caper":
+    {
+        "name": "Caper",
+        "description": "The salted and pickled caper bud (called simply a caper) is used as an ingredient, seasoning, or garnish. Capers are a common ingredient in Mediterranean cuisine, especially Cypriot, Italian, Aeolian Greek, and Maltese food."
+    },
+
+    "oregano":
+    {
+        "name": "Oregano",
+        "description": "Oregano is a culinary herb, used for the flavour of its leaves, which can be more intense when dried than fresh. It has an earthy, warm, and slightly bitter taste, which can vary in intensity."
+    },
+
+    "paprika":
+    {
+        "name": "Paprika",
+        "description": "Paprika is a spice made from dried and ground red peppers."
+    },
+
+    "ground_beef":
+    {
+        "name": "Ground Beef",
+        "description": "Ground beef, minced beef or beef mince is beef that has been finely chopped with a knife, meat grinder."
+    },
+
+    "basil":
+    {
+        "name": "Basil",
+        "description": "Basil is most commonly used fresh in recipes. In general, it is added last, as cooking quickly destroys the flavor. The fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched quickly in boiling water."
+    },
+
+    "cherry_pie_filling":
+    {
+        "name": "Cherry Pie Filling",
+        "description": "Cherry pie filling is sweet, tart & ready in 10 minutes! Made with sweet or sour cherries & thickened with cornstarch until glossy."
+    },
+
+    "macaroni":
+    {
+        "name": "Macaroni",
+        "description": "Macaroni is dry pasta shaped like narrow tubes. Made with durum wheat, macaroni is commonly cut in short lengths; curved macaroni may be referred to as elbow macaroni."
+    },
+
+    "cheese":
+    {
+        "name": "Cheese",
+        "description": "Cheese is a dairy product produced in wide ranges of flavors, textures, and forms by coagulation of the milk protein casein."
+    },
+
+    "cheddar_cheese":
+    {
+        "name": "Cheddar Cheese",
+        "description": "Cheddar cheese (or simply cheddar) is a natural cheese that is relatively hard, off-white (or orange if colourings such as annatto are added), and sometimes sharp-tasting."
+    },
+
+    "dough":
+    {
+        "name": "Dough",
+        "description": "Dough is a thick, malleable, sometimes elastic paste made from grains or from leguminous or chestnut crops. Dough is typically made by mixing flour with a small amount of water or other liquid and sometimes includes yeast or other leavening agents, as well as ingredients such as fats or flavorings."
+    },
+
+    "nutmeg":
+    {
+        "name": "Nutmeg",
+        "description": "Nutmeg is the seed, or the ground spice derived from that seed, of several tree species of the genus Myristica."
+    },
+
+    "apple":
+    {
+        "name": "Apple",
+        "description": "An apple is an edible fruit produced by an apple tree."
+    },
+
+    "egg_white":
+    {
+        "name": "Egg White",
+        "description": "Egg white is the clear liquid (also called the albumen or the glair/glaire) contained within an egg."
+    },
+
+    "pork_sausage":
+    {
+        "name": "Pork Sausage",
+        "description": "A sausage is a type of meat product usually made from ground meat—often pork, beef, or poultry—along with salt, spices and other flavourings."
+    },
+
+    "tomato_sauce":
+    {
+        "name": "Tomato Sauce",
+        "description": "Tomato sauce (also known as salsa roja in Spanish or salsa di pomodoro in Italian) can refer to many different sauces made primarily from tomatoes, usually to be served as part of a dish, rather than as a condiment."
+    },
+
+    "cottage_cheese":
+    {
+        "name": "Cottage Cheese",
+        "description": "Cottage cheese is a curdled milk product with a mild flavor and a creamy, heterogenous, soupy texture. It is made from skimmed milk by draining curds, but retaining some of the whey and keeping the curds loose."
+    },
+
+    "ricotta_cheese":
+    {
+        "name": "Ricotta Cheese",
+        "description": "Ricotta is an Italian whey cheese made from sheep, cow, goat, or Italian water buffalo milk whey left over from the production of other cheeses."
+    },
+
+    "noodles":
+    {
+        "name": "Noodles",
+        "description": "Noodles are a type of food made from unleavened dough which is either rolled flat and cut, stretched, or extruded, into long strips or strings."
+    },
+
+    "dry_yeast":
+    {
+        "name": "Dry Yeast",
+        "description": "Dry yeast is a dehydrated form of baker's yeast. The dehydration process drastically extends its shelf-life and creates a product that no longer requires refrigeration."
+    },
+
+    "water":
+    {
+        "name": "Water",
+        "description": "Water is an inorganic compound with the chemical formula H2O."
+    },
+
+    "bread_flour":
+    {
+        "name": "Bread Flour",
+        "description": "Bread flour is typically made from red hard wheat planted in the fall and harvested in the spring (winter wheat)."
+    },
+
+    "green_pepper":
+    {
+        "name": "Green Pepper",
+        "description": "The bell pepper (also known as paprika, sweet pepper, pepper, or capsicum) is the fruit of plants in the Grossum Group of the species Capsicum annuum."
+    },
+
+    "red_pepper":
+    {
+        "name": "Red Pepper",
+        "description": "The bell pepper (also known as paprika, sweet pepper, pepper, or capsicum) is the fruit of plants in the Grossum Group of the species Capsicum annuum."
+    },
+
+    "yellow_pepper":
+    {
+        "name": "Yellow Pepper",
+        "description": "The bell pepper (also known as paprika, sweet pepper, pepper, or capsicum) is the fruit of plants in the Grossum Group of the species Capsicum annuum."
+    },
+
+    "mushroom":
+    {
+        "name": "Mushroom",
+        "description": "Edible mushrooms are the fleshy and edible fruit bodies of several species of macrofungi (fungi which bear fruiting structures that are large enough to be seen with the naked eye)."
+    },
+
+    "olive":
+    {
+        "name": "Olive",
+        "description": "The olive, botanical name Olea europaea, meaning 'European olive' in Latin, is a species of small tree or shrub in the family Oleaceae, found traditionally in the Mediterranean Basin."
+    },
+
+    "spaghetti":
+    {
+        "name": "Spaghetti",
+        "description": "Spaghetti is a long, thin, solid, cylindrical pasta. It is a staple food of traditional Italian cuisine."
+    },
+
+    "parmesan_cheese":
+    {
+        "name": "Parmesan Cheese",
+        "description": "Parmesan is an Italian hard, granular cheese produced from cows' milk and aged at least 12 months."
+    },
+
+    "shrimp":
+    {
+        "name": "Shrimp",
+        "description": "Shrimp are crustaceans (a form of shellfish) with elongated bodies and a primarily swimming mode of locomotion."
+    },
+
+    "rice":
+    {
+        "name": "Rice",
+        "description": "Rice is the seed of the grass species Oryza sativa (Asian rice) or less commonly O. glaberrima (African rice)."
+    },
+
+    "powdered_sugar":
+    {
+        "name": "Powdered Sugar",
+        "description": "Powdered sugar, also called confectioners' sugar, or icing sugar, is a finely ground sugar produced by milling granulated sugar into a powdered state."
+    },
+
+    "peanut_butter_cup":
+    {
+        "name": "Peanut Butter Cup",
+        "description": "A peanut butter cup is a molded chocolate with a peanut butter filling. Peanut butter cups are one of the most popular kinds of candy in America."
+    },
+
+    "chocolate_fudge":
+    {
+        "name": "Chocolate Fudge",
+        "description": "Fudge is a type of confection that is made by mixing sugar, butter and milk."
+    },
+
+    "angel_pasta":
+    {
+        "name": "Angel Pasta",
+        "description": "Variant of pasta: very thin and delicate strands of pasta"
+    },
+
+    "watermelon":
+    {
+        "name": "Watermelon",
+        "description": "Watermelon is a flowering plant species of the Cucurbitaceae family and the name of its edible fruit."
+    },
+
+    "vodka":
+    {
+        "name": "Vodka",
+        "description": "Vodka is a clear distilled alcoholic beverage."
+    },
+
+    "lemon_juice":
+    {
+        "name": "Lemon Juice",
+        "description": "Lemon juice is used to make lemonade, soft drinks, and cocktails."
+    },
+
+    "eggplant":
+    {
+        "name": "Eggplant",
+        "description": "Eggplant is a plant species in the nightshade family Solanaceae. Solanum melongena is grown worldwide for its edible fruit."
+    },
+
+    "olive_oil":
+    {
+        "name": "Olive Oil",
+        "description": "Olive oil is a liquid fat obtained by pressing whole olives, the fruit of Olea europaea, a traditional tree crop of the Mediterranean Basin, and extracting the oil."
+    },
+
+    "fettuccine":
+    {
+        "name": "Fettuccine",
+        "description": "Fettuccine is a type of pasta popular in Roman and Tuscan cuisine. It is descended from the extremely thin capelli d'angelo of the Renaissance but is a flat, thick pasta traditionally made of egg and flour."
+    },
+
+    "steak":
+    {
+        "name": "Steak",
+        "description": "A steak is a thick cut of meat generally sliced across the muscle fibers, sometimes including a bone. It is normally grilled or fried. Steak can be diced, cooked in sauce, such as in steak and kidney pie, or minced and formed into patties, such as hamburgers."
+    },
+
+    "soy_sauce":
+    {
+        "name": "Soy Sauce",
+        "description": "Soy sauce is a liquid condiment of Chinese origin, traditionally made from a fermented paste of soybeans, roasted grain, brine, and Aspergillus oryzae or Aspergillus sojae molds. It is considered to contain a strong umami taste."
+    },
+
+    "cabbage":
+    {
+        "name": "Cabbage",
+        "description": "Cabbage, comprising several cultivars of Brassica oleracea, is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads."
+    },
+
+    "fish_sauce":
+    {
+        "name": "Fish Sauce",
+        "description": "Fish sauce is a liquid condiment made from fish or krill that have been coated in salt and fermented for up to two years."
+    }
+}

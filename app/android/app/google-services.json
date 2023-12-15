@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418029216936",
+    "project_id": "recipe-wizard-3013b",
+    "storage_bucket": "recipe-wizard-3013b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418029216936:android:300d2f1783af7559774e9d",
+        "android_client_info": {
+          "package_name": "com.example.recipewizard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418029216936-3i4nafural60eij24hg3cv3t4qto1qs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKNGcpgRL8ogu6FnJZznk0GdkSg_BzC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418029216936-3i4nafural60eij24hg3cv3t4qto1qs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

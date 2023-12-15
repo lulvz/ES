@@ -1,0 +1,23 @@
+------Database------
+Ingredients:
+id, nome
+1, tomate
+2, banana
+
+Inventario:
+id_user, id_ingrediente, exists
+1, 1, true
+1, 2, false
+
+Receitas:
+id_receita, id_ingrediente
+1, 1
+1, 2
+
+Descricoes:
+id_receita, descricao
+1, meter tomate no forno e esmagar
+
+Utilizadores
+id_user, nome
+1, 1
